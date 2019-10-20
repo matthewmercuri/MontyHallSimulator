@@ -5,11 +5,6 @@ from random import randint
 
 def play_sim(games, my_choice, strategy, total_doors=3):
 
-    total_doors = total_doors
-    my_choice = my_choice
-    games = games
-    strategy = strategy
-
     i = 0
     wins = 0
     losses = 0
